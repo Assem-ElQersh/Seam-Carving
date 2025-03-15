@@ -1,0 +1,5 @@
+numpy>=1.21.0
+Pillow>=11.1.0
+scipy>=1.9.3
+numba>=0.61.0
+llvmlite>=0.44.0
